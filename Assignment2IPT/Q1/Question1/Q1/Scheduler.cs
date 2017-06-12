@@ -91,7 +91,7 @@ namespace Q1
                         client.EnableSsl = true;
 
                         client.UseDefaultCredentials = false;
-                        client.Credentials = new NetworkCredential("rafitaha36@gmail.com", "AMMIabu12345");
+                        client.Credentials = new NetworkCredential("email", "password");
                         MailMessage msg = new MailMessage();
                         msg.To.Add(list[0].ToString());
                         msg.From = new MailAddress("rafitaha36@gmail.com");
