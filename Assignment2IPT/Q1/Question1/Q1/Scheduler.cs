@@ -94,7 +94,7 @@ namespace Q1
                         client.Credentials = new NetworkCredential("email", "password");
                         MailMessage msg = new MailMessage();
                         msg.To.Add(list[0].ToString());
-                        msg.From = new MailAddress("rafitaha36@gmail.com");
+                        msg.From = new MailAddress("email");
                         msg.Subject = list[1].ToString();
                         msg.Body = list[2].ToString();
                         client.Send(msg);
