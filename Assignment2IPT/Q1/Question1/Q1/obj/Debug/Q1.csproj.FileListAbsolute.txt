@@ -1,0 +1,8 @@
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\bin\Debug\Q1.exe.config
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\bin\Debug\Q1.exe
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\bin\Debug\Q1.pdb
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Debug\Q1.ProjectInstaller.resources
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.Cache
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Debug\Q1.exe
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Debug\Q1.pdb

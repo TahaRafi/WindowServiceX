@@ -1,0 +1,13 @@
+E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe.config
+E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe
+E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.pdb
+E:\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.ProjectInstaller.resources
+E:\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.csproj.GenerateResource.Cache
+E:\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.exe
+E:\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.pdb
+E:\Assignment2IPT\Q3\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe.config
+E:\Assignment2IPT\Q3\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.exe
+E:\Assignment2IPT\Q3\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.pdb
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q3\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe.config
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q3\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.exe
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q3\Q3b\CheckSpecifiedFolder\obj\Release\CheckSpecifiedFolder.pdb

@@ -1,0 +1,19 @@
+E:\Q2\FolderUpdated\bin\Release\FolderUpdated.exe.config
+E:\Q2\FolderUpdated\bin\Release\FolderUpdated.exe
+E:\Q2\FolderUpdated\bin\Release\FolderUpdated.pdb
+E:\Q2\FolderUpdated\obj\Release\FolderUpdated.csprojResolveAssemblyReference.cache
+E:\Q2\FolderUpdated\obj\Release\FolderUpdated.ProjectInstaller.resources
+E:\Q2\FolderUpdated\obj\Release\FolderUpdated.csproj.GenerateResource.Cache
+E:\Q2\FolderUpdated\obj\Release\FolderUpdated.exe
+E:\Q2\FolderUpdated\obj\Release\FolderUpdated.pdb
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\bin\Release\FolderUpdated.exe.config
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.exe
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.pdb
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\bin\Release\FolderUpdated.exe
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\bin\Release\FolderUpdated.pdb
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.csprojResolveAssemblyReference.cache
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.ProjectInstaller.resources
+E:\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.csproj.GenerateResource.Cache
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q3\3a\Q2\FolderUpdated\bin\Release\FolderUpdated.exe.config
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.exe
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q3\3a\Q2\FolderUpdated\obj\Release\FolderUpdated.pdb

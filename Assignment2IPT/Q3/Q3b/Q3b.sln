@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSpecifiedFolder", "CheckSpecifiedFolder\CheckSpecifiedFolder.csproj", "{3DB25E43-EE29-4E80-8D15-E509D508833E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckFolderUpdatesSetup", "CheckFolderUpdatesSetup\CheckFolderUpdatesSetup.vdproj", "{5D46B3A0-4EAB-4DDD-9F00-F71BC4867C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB25E43-EE29-4E80-8D15-E509D508833E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB25E43-EE29-4E80-8D15-E509D508833E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB25E43-EE29-4E80-8D15-E509D508833E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB25E43-EE29-4E80-8D15-E509D508833E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D46B3A0-4EAB-4DDD-9F00-F71BC4867C05}.Debug|Any CPU.ActiveCfg = Debug
+		{5D46B3A0-4EAB-4DDD-9F00-F71BC4867C05}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

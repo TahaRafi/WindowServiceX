@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.InstallLog
+   assemblypath = E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe
+Installing service zCheckSpecificFolder...
+Service zCheckSpecificFolder has been successfully installed.
+Creating EventLog source zCheckSpecificFolder in log Application...
+Committing assembly 'E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.InstallLog
+   assemblypath = E:\Q3b\CheckSpecifiedFolder\bin\Release\CheckSpecifiedFolder.exe

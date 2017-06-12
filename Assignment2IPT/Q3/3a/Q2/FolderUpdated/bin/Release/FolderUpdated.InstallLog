@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\Q2\FolderUpdated\bin\Release\FolderUpdated.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Q2\FolderUpdated\bin\Release\FolderUpdated.InstallLog
+   assemblypath = E:\Q2\FolderUpdated\bin\Release\FolderUpdated.exe
+Installing service zCheckUpdateInFolder...
+Service zCheckUpdateInFolder has been successfully installed.
+Creating EventLog source zCheckUpdateInFolder in log Application...
+Committing assembly 'E:\Q2\FolderUpdated\bin\Release\FolderUpdated.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Q2\FolderUpdated\bin\Release\FolderUpdated.InstallLog
+   assemblypath = E:\Q2\FolderUpdated\bin\Release\FolderUpdated.exe

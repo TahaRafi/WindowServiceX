@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1", "Q1\Q1.csproj", "{08F48500-D8B8-4A26-9BA1-DC5C55F431EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MyEmailService", "MyEmailService\MyEmailService.vdproj", "{2FD17DC4-AA64-4D9C-90E9-4DB99E6ECDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F48500-D8B8-4A26-9BA1-DC5C55F431EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F48500-D8B8-4A26-9BA1-DC5C55F431EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F48500-D8B8-4A26-9BA1-DC5C55F431EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F48500-D8B8-4A26-9BA1-DC5C55F431EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD17DC4-AA64-4D9C-90E9-4DB99E6ECDEB}.Debug|Any CPU.ActiveCfg = Debug
+		{2FD17DC4-AA64-4D9C-90E9-4DB99E6ECDEB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

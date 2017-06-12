@@ -1,0 +1,8 @@
+E:\Q3b\CheckSpecifiedFolder\bin\Debug\CheckSpecifiedFolder.exe.config
+E:\Q3b\CheckSpecifiedFolder\bin\Debug\CheckSpecifiedFolder.exe
+E:\Q3b\CheckSpecifiedFolder\bin\Debug\CheckSpecifiedFolder.pdb
+E:\Q3b\CheckSpecifiedFolder\obj\Debug\CheckSpecifiedFolder.csprojResolveAssemblyReference.cache
+E:\Q3b\CheckSpecifiedFolder\obj\Debug\CheckSpecifiedFolder.ProjectInstaller.resources
+E:\Q3b\CheckSpecifiedFolder\obj\Debug\CheckSpecifiedFolder.csproj.GenerateResource.Cache
+E:\Q3b\CheckSpecifiedFolder\obj\Debug\CheckSpecifiedFolder.exe
+E:\Q3b\CheckSpecifiedFolder\obj\Debug\CheckSpecifiedFolder.pdb

@@ -1,0 +1,43 @@
+﻿Installing assembly 'E:\Question1\Q1\bin\Release\Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Question1\Q1\bin\Release\Q1.InstallLog
+   assemblypath = E:\Question1\Q1\bin\Release\Q1.exe
+Installing service Email Sending Service...
+Service Email Sending Service has been successfully installed.
+Creating EventLog source Email Sending Service in log Application...
+Committing assembly 'E:\Question1\Q1\bin\Release\Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Question1\Q1\bin\Release\Q1.InstallLog
+   assemblypath = E:\Question1\Q1\bin\Release\Q1.exe
+Uninstalling assembly 'E:\Question1\Q1\bin\Release\Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Question1\Q1\bin\Release\Q1.InstallLog
+   assemblypath = E:\Question1\Q1\bin\Release\Q1.exe
+Removing EventLog source Email Sending Service.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\Question1\Q1\bin\Release\Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Question1\Q1\bin\Release\Q1.InstallLog
+   assemblypath = E:\Question1\Q1\bin\Release\Q1.exe
+Removing EventLog source Email Sending Service.
+Service Email Sending Service is being removed from the system...
+Service Email Sending Service was successfully removed from the system.
+Installing assembly 'E:\Question1\Q1\bin\Release\Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Question1\Q1\bin\Release\Q1.InstallLog
+   assemblypath = E:\Question1\Q1\bin\Release\Q1.exe
+Installing service Email Sending Service...
+Service Email Sending Service has been successfully installed.
+Creating EventLog source Email Sending Service in log Application...
+Committing assembly 'E:\Question1\Q1\bin\Release\Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Question1\Q1\bin\Release\Q1.InstallLog
+   assemblypath = E:\Question1\Q1\bin\Release\Q1.exe

@@ -1,0 +1,10 @@
+E:\q2(q)\WindowsService1\bin\Release\WindowsService1.exe.config
+E:\q2(q)\WindowsService1\bin\Release\WindowsService1.exe
+E:\q2(q)\WindowsService1\bin\Release\WindowsService1.pdb
+E:\q2(q)\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+E:\q2(q)\WindowsService1\obj\Release\WindowsService1.csproj.GenerateResource.Cache
+E:\q2(q)\WindowsService1\obj\Release\WindowsService1.exe
+E:\q2(q)\WindowsService1\obj\Release\WindowsService1.pdb
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q2\q2(q)\WindowsService1\bin\Release\WindowsService1.exe.config
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q2\q2(q)\WindowsService1\obj\Release\WindowsService1.exe
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q2\q2(q)\WindowsService1\obj\Release\WindowsService1.pdb

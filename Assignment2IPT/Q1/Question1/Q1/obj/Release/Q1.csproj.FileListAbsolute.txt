@@ -1,0 +1,19 @@
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\bin\Release\Q1.exe.config
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\bin\Release\Q1.exe
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\bin\Release\Q1.pdb
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Release\Q1.ProjectInstaller.resources
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Release\Q1.csproj.GenerateResource.Cache
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Release\Q1.exe
+c:\users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Release\Q1.pdb
+C:\Users\taha\documents\visual studio 2015\Projects\Q1\Q1\obj\Release\Q1.csprojResolveAssemblyReference.cache
+E:\Question1\Q1\bin\Release\Q1.exe.config
+E:\Question1\Q1\obj\Release\Q1.exe
+E:\Question1\Q1\obj\Release\Q1.pdb
+E:\Question1\Q1\bin\Release\Q1.exe
+E:\Question1\Q1\bin\Release\Q1.pdb
+E:\Question1\Q1\obj\Release\Q1.csprojResolveAssemblyReference.cache
+E:\Question1\Q1\obj\Release\Q1.ProjectInstaller.resources
+E:\Question1\Q1\obj\Release\Q1.csproj.GenerateResource.Cache
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q1\Question1\Q1\bin\Release\Q1.exe.config
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q1\Question1\Q1\obj\Release\Q1.exe
+C:\Users\taha\Desktop\Study\Seamester 8\IPT\Assignment\Assignment2IPT\Q1\Question1\Q1\obj\Release\Q1.pdb

@@ -1,0 +1,2 @@
+c:\users\taha\documents\visual studio 2015\Projects\Q2\FolderUpdated\bin\Debug\FolderUpdated.exe.config
+E:\Q2\FolderUpdated\bin\Debug\FolderUpdated.exe.config
