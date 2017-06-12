@@ -129,10 +129,10 @@ namespace CheckSpecifiedFolder
                     client.EnableSsl = true;
 
                     client.UseDefaultCredentials = false;
-                    client.Credentials = new NetworkCredential("rafitaha36@gmail.com", "AMMIabu12345");
+                    client.Credentials = new NetworkCredential("email", "password");
                     MailMessage msg = new MailMessage();
-                    msg.To.Add("k132050@nu.edu.pk");
-                    msg.From = new MailAddress("rafitaha36@gmail.com");
+                    msg.To.Add("email");
+                    msg.From = new MailAddress("email");
                     msg.Subject = "Inform About Updated Folder";
                     msg.Body = ans;
                     client.Send(msg);
